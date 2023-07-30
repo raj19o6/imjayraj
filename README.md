@@ -10,6 +10,8 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 ✔️ Git | Version Control | Collaboration
 
 🔹 Work Experience 🔹
+[imjayraj_cv.pdf](https://github.com/raj19o6/imjayraj/files/12208629/imjayraj_cv.pdf)
+
 
 📍 [Full Stack Developer] at [Doctecq Technologies] | [July 2022 - Feb 2023]
 - Developed and maintained Multiple Static With Dynamic Websites, a Websites that increasing user retention by 30% through performance optimizations.
@@ -25,7 +27,8 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 - [A management system in Flutter is a powerful tool that enables developers to efficiently works various aspects of app development.]
 
   and Many Mores........Download Apk to see my Portfolio
-  📱Apk:
+  📱Apk
+  
 
 🔹 Education 🔹
 🎓 [Diploma] in [Computer Engineering]
