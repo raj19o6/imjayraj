@@ -10,7 +10,7 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 ✔️ Git | Version Control | Collaboration
 
 🔹 Work Experience 🔹
-[Jayraj patel.pdf](https://github.com/raj19o6/imjayraj/files/12485541/Jayraj.patel.pdf)
+[Jayraj_Patel_CV.pdf](https://github.com/raj19o6/imjayraj/files/12572039/Jayraj_Patel_CV.pdf)
 
 
 📍 [Full Stack Developer] at [Doctecq Technologies] | [July 2022 - Feb 2023]
@@ -33,6 +33,9 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 🔹 Education 🔹
 🎓 [Diploma] in [Computer Engineering]
 [Gujarat Technical University/IIET Dharmaj] | [2023]
+
+🎓 [Bachelor] in [Computer Engineering]
+[Gujarat Technical University/IIET Dharmaj] | [Pursuing]
 
 🔹 Certifications 🔹
 📜 [Codethon] | [I am proud to have secured the 1st place in the Codethon competition, showcasing my coding skills and problem-solving abilities in a competitive and challenging environment.]
