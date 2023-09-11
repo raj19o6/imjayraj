@@ -31,11 +31,15 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
   
 
 🔹 Education 🔹
+
+
 🎓 [Diploma] in [Computer Engineering]
 [Gujarat Technical University/IIET Dharmaj] | [2023]
 
 🎓 [Bachelor] in [Computer Engineering]
 [Gujarat Technical University/IIET Dharmaj] | [Pursuing]
+
+
 
 🔹 Certifications 🔹
 📜 [Codethon] | [I am proud to have secured the 1st place in the Codethon competition, showcasing my coding skills and problem-solving abilities in a competitive and challenging environment.]
