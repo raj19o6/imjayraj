@@ -13,7 +13,7 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 [my_cv_jayraj.pdf](https://github.com/user-attachments/files/15752645/my_cv_jayraj.pdf)
 
 
-📍 [Full Stack Developer] at [Doctecq Technologies] | [July 2022 - Feb 2023]
+📍 [Full Stack Developer] at [Doctecq Technologies] | [Aug 2022 - Feb 2023]
 - Developed and maintained Multiple Static With Dynamic Websites, a Websites that increasing user retention by 30% through performance optimizations.
 - Created an Hospital Management Panel [WhatsApp Integrated] using Provider for state management, reducing web response time by 30%.
 - Worked closely with product managers and designers to iterate and improve website functionality based on user feedback.
