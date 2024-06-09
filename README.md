@@ -10,7 +10,7 @@ I am a passionate and results-driven Flutter developer creating cross-platform m
 ✔️ Git | Version Control | Collaboration
 
 🔹 Work Experience 🔹
-[Jayraj_Patel_CV.pdf](https://github.com/raj19o6/imjayraj/files/12572039/Jayraj_Patel_CV.pdf)
+[my_cv_jayraj.pdf](https://github.com/user-attachments/files/15752645/my_cv_jayraj.pdf)
 
 
 📍 [Full Stack Developer] at [Doctecq Technologies] | [July 2022 - Feb 2023]
